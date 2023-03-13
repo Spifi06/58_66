@@ -1,0 +1,10 @@
+#p1:first-line {
+  color:red;
+}
+#p2:before { content: "Pierwsze zdanie dodane z poziomu css. "; }
+#p2:after { content: " Drugie zdanie dodane z poziomu css."; }
+#p3:first-letter{
+	
+color:blue;
+font-size: 1cm;
+}

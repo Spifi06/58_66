@@ -1,0 +1,29 @@
+div{
+	background-color:green; 
+	width: 608px;
+}
+#blok1_gitler:hover{
+	background-color:orange;
+	font-size:20mm;
+}
+#blok2_gitler:hover{
+	background-color:blue;
+	font-size:20mm;
+}
+#blok3_gitler:hover{
+	background-color:turquoise;
+	font-size:20mm;
+}
+
+
+
+
+
+
+
+
+
+/*
+hover; - Oznacza moment, gdy użytkownik najeżdza myszką na np. tekst
+Adam Gitler
+ */

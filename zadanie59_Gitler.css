@@ -1,0 +1,27 @@
+A 
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link 
+{
+color: blue;
+}
+A:visited 
+{
+color: green;
+}
+A:hover 
+{
+color: red;
+text-decoration: underline;
+}
+div{
+	color: red;
+	font-size:2cm;
+}
+/*
+text-decoration: none; - Styl definiuje wygląd tekstu. Właściwość text-decoration określa dodatkową dekorację dodaną do tekstu. W tym przypadku nie mamy żadnej.
+text-decoration: underline; - Podkreśla dany tekst.
+Adam Gitler
+ */
